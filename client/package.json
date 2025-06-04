@@ -1,0 +1,9 @@
+{
+  "name": "v8-estimator-client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Open index.html in browser'",
+    "test": "echo 'No tests specified'"
+  }
+}
